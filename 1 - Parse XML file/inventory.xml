@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>   
+    <stuff count="5">
+        <name>melons</name> 
+    </stuff>
+
+    <stuff count="8">
+        <name>lemons</name> 
+    </stuff>
+</inventory>

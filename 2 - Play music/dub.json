@@ -1,0 +1,7 @@
+{
+	"name": "play-music",
+	"dependencies":
+	{
+		"game-mixer": "~>1.0"
+	}
+}

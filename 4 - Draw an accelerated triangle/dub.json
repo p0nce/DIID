@@ -1,0 +1,7 @@
+{
+	"name": "accelerated-triangle",
+	"dependencies":
+	{
+		"arsd-official:nanovega": "~>10.0"
+	}
+}

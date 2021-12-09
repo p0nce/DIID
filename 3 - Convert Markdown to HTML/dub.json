@@ -1,0 +1,7 @@
+{
+	"name": "convert-markdown-to-html",
+	"dependencies":
+	{
+		"commonmark-d": "~>1.0"
+	}
+}

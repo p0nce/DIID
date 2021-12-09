@@ -1,0 +1,7 @@
+{
+	"name": "parse-xml-file",
+	"dependencies":
+	{
+		"arsd-official:dom": "~>10.0"
+	}
+}
