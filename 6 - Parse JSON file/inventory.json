@@ -1,0 +1,13 @@
+{
+    "stuff":
+    [
+        {
+            "name": "melons",
+            "count": 5
+        },
+        {
+            "name": "lemons",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "parse-json-file",
+    "dependencies":
+    {
+        "arsd-official:jsvar": "~>10.0"
+    }
+}
