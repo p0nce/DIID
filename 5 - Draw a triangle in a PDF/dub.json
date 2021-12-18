@@ -1,0 +1,7 @@
+{
+	"name": "pdf-triangle",
+	"dependencies":
+	{
+		"printed:canvas": "~>1.0"
+	}
+}
