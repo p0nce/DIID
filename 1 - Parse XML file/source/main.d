@@ -24,7 +24,7 @@ void main()
 Stuff[] parseStuff(string xmlpath)
 {
     Stuff[] result;
-    string content = cast(string)(std.file.read(xmlpath));
+    string content = readText(xmlpath);
     auto doc = new Document();
     bool caseSensitive = true, strict = true;
     doc.parseUtf8(content, caseSensitive, strict);
