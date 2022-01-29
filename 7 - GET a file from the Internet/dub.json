@@ -1,0 +1,7 @@
+{
+    "name": "get-file-internet",
+    "dependencies":
+    {
+        "requests": "~>2.0"
+    }
+}
