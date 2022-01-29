@@ -1,0 +1,7 @@
+{
+    "name": "treewalk-interpreter",
+    "dependencies":
+    {
+        "pegged": "~>0.0"
+    }
+}
