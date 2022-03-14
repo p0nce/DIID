@@ -1,0 +1,7 @@
+{
+    "name": "colorize-text-output",
+    "dependencies": 
+    {
+        "colorize": "~>1.0"
+    }
+}
