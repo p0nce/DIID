@@ -2,6 +2,6 @@
     "name": "colorize-text-output",
     "dependencies": 
     {
-        "colorize": "~>1.0"
+        "console-colors": "~>1.0"
     }
 }
