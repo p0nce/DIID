@@ -1,0 +1,8 @@
+{
+	"name": "write-current-date-on-png",
+
+	"dependencies":
+	{
+		"dplug:graphics": "~>12.0"		
+	}
+}
